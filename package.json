@@ -1,8 +1,8 @@
 {
-  "name": "@foxglove/roslibjs",
-  "homepage": "https://github.com/foxglove/roslibjs",
+  "name": "@lichtblick/roslibjs",
+  "homepage": "https://github.com/lichtblick/roslibjs",
   "description": "Fork of roslib",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "license": "BSD-2-Clause",
   "main": "./build/roslib.js",
   "browser": {
@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobotWebTools/roslibjs/releases"
+    "url": "https://github.com/Lichtblick-Suite/roslibjs"
   },
   "bugs": {
-    "url": "https://github.com/RobotWebTools/roslibjs/issues"
+    "url": "https://github.com/Lichtblick-Suite/roslibjs/issues"
   },
   "keywords": [
     "ROS",
@@ -64,7 +64,7 @@
     "robot"
   ],
   "author": {
-    "name": "Foxglove Technologies",
-    "email": "support@foxglove.dev"
+    "name": "Lichtblick",
+    "email": "lichtblick@bmwgroup.com"
   }
 }
