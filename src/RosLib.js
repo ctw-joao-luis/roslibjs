@@ -6,7 +6,7 @@
 /**
  * If you use roslib in a browser, all the classes will be exported to a global variable called ROSLIB.
  *
- * If you use nodejs, this is the variable you get when you require('roslib')
+ * If you use nodejs, this is the variable you get when you require('roslib')9
  */
 var ROSLIB = this.ROSLIB || {
   REVISION : '1.1.0'
